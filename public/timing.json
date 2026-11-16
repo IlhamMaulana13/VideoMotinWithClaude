@@ -1,0 +1,169 @@
+{
+  "fps": 30,
+  "audioFile": "narasi.mp3",
+  "audioDuration": 48.509375,
+  "tailSeconds": 1,
+  "scenes": [
+    {
+      "id": 1,
+      "start": 0.08,
+      "end": 1.2,
+      "text": "kenalin bang Rio",
+      "subtitle": "Kenalin, Bang Rio."
+    },
+    {
+      "id": 2,
+      "start": 1.6,
+      "end": 3.2,
+      "text": "motornya bertangki besar",
+      "subtitle": "Motornya bertangki besar,"
+    },
+    {
+      "id": 3,
+      "start": 3.44,
+      "end": 6.4,
+      "text": "dan hobinya bolak-balik isi pertalite pagi",
+      "subtitle": "dan hobinya bolak-balik isi Pertalite. Pagi,"
+    },
+    {
+      "id": 4,
+      "start": 6.52,
+      "end": 7.64,
+      "text": "siang sore",
+      "subtitle": "siang, sore."
+    },
+    {
+      "id": 5,
+      "start": 7.84,
+      "end": 9.52,
+      "text": "katanya biar hemat",
+      "subtitle": "Katanya, biar hemat."
+    },
+    {
+      "id": 6,
+      "start": 9.8,
+      "end": 10.76,
+      "text": "pernah kepikiran nggak",
+      "subtitle": "Pernah kepikiran nggak,"
+    },
+    {
+      "id": 7,
+      "start": 10.8,
+      "end": 12.88,
+      "text": "sehari boleh isi bensin berapa kali",
+      "subtitle": "sehari boleh isi bensin berapa kali?"
+    },
+    {
+      "id": 8,
+      "start": 13.08,
+      "end": 14.52,
+      "text": "mari kita garap aturannya",
+      "subtitle": "Mari kita garap aturannya!"
+    },
+    {
+      "id": 9,
+      "start": 14.76,
+      "end": 16.72,
+      "text": "kalau pertamax itu non subsidi",
+      "subtitle": "Kalau Pertamax, itu non-subsidi,"
+    },
+    {
+      "id": 10,
+      "start": 16.88,
+      "end": 19.24,
+      "text": "jadi umumnya nggak ada jatah yang dikontrol",
+      "subtitle": "jadi umumnya nggak ada jatah yang dikontrol."
+    },
+    {
+      "id": 11,
+      "start": 19.44,
+      "end": 21.48,
+      "text": "tapi pertalite itu subsidi",
+      "subtitle": "Tapi Pertalite itu subsidi."
+    },
+    {
+      "id": 12,
+      "start": 21.72,
+      "end": 23.12,
+      "text": "transaksinya dipantau",
+      "subtitle": "Transaksinya dipantau,"
+    },
+    {
+      "id": 13,
+      "start": 23.2,
+      "end": 24.6,
+      "text": "plat nomor bisa tercatat",
+      "subtitle": "plat nomor bisa tercatat,"
+    },
+    {
+      "id": 14,
+      "start": 24.72,
+      "end": 25.84,
+      "text": "dan di beberapa daerah",
+      "subtitle": "dan di beberapa daerah,"
+    },
+    {
+      "id": 15,
+      "start": 25.96,
+      "end": 28.24,
+      "text": "motor cuma boleh isi sekali sehari",
+      "subtitle": "motor cuma boleh isi sekali sehari."
+    },
+    {
+      "id": 16,
+      "start": 28.56,
+      "end": 29.48,
+      "text": "di isian ke-3",
+      "subtitle": "Di isian ke-3,"
+    },
+    {
+      "id": 17,
+      "start": 29.56,
+      "end": 30.8,
+      "text": "petugas mulai curiga",
+      "subtitle": "petugas mulai curiga."
+    },
+    {
+      "id": 18,
+      "start": 31.08,
+      "end": 33.84,
+      "text": "pembelian berulang di luar kewajaran bisa ditolak",
+      "subtitle": "Pembelian berulang di luar kewajaran bisa ditolak,"
+    },
+    {
+      "id": 19,
+      "start": 33.96,
+      "end": 36.04,
+      "text": "dan plat nomor bisa diajukan blokir",
+      "subtitle": "dan plat nomor bisa diajukan blokir."
+    },
+    {
+      "id": 20,
+      "start": 36.32,
+      "end": 39.88,
+      "text": "ratusan ribu kendaraan sudah pernah diblokir karena kecurangan",
+      "subtitle": "Ratusan ribu kendaraan sudah pernah diblokir karena kecurangan."
+    },
+    {
+      "id": 21,
+      "start": 40.16,
+      "end": 43.88,
+      "text": "jadi isi BBM subsidi seperlunya buat pemakaian harian",
+      "subtitle": "Jadi, isi BBM subsidi seperlunya buat pemakaian harian."
+    },
+    {
+      "id": 22,
+      "start": 44,
+      "end": 45.32,
+      "text": "nggak usah niat nimbun",
+      "subtitle": "Nggak usah niat nimbun."
+    },
+    {
+      "id": 23,
+      "start": 45.72,
+      "end": 48.509,
+      "text": "ikuti marigarap.id untuk tips lainnya",
+      "subtitle": "Ikuti marigarap.id untuk tips lainnya!"
+    }
+  ]
+}

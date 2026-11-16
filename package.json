@@ -1,0 +1,23 @@
+{
+  "name": "bang-rio-animasi",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Animasi cerita 9:16 (Remotion) - Bang Rio dan aturan isi BBM subsidi",
+  "scripts": {
+    "start": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts BangRio out/bang-rio.mp4",
+    "typecheck": "tsc --noEmit",
+    "timing": "node scripts/srt-to-json.mjs"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.0",
+    "@remotion/media-utils": "^4.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.0",
+    "typescript": "^5.5.0"
+  }
+}
